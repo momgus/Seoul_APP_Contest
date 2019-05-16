@@ -5,8 +5,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
-//test 5.16
-
 public class MainActivity extends AppCompatActivity {
 //for test
     @Override
